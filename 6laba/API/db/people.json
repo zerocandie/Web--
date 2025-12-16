@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Сныткин Илья",
+    "role": "Студент ИС-23",
+    "photo": "assets/ilya.jpeg",
+    "description": "Любит Docker, GitLab и киберпанк."
+  },
+  {
+    "id": "2",
+    "name": "Иван",
+    "role": "Студент",
+    "photo": "assets/ivan.jpeg",
+    "description": "Крутой чувак"
+  }
+]
